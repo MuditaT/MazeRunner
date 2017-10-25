@@ -193,7 +193,7 @@ public class Maze {
 				setResizable(false);
 				setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 
-				JLabel title = new JLabel("Maze1111111", JLabel.CENTER);
+				JLabel title = new JLabel("Maze", JLabel.CENTER);
 				title.setFont(new Font("Helvetica", Font.PLAIN, 24));
 				title.setForeground(new java.awt.Color(255, 153, 102));
 
